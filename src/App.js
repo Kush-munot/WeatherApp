@@ -58,7 +58,7 @@ export default function App() {
     <div
       className={
         typeof weather.main != "undefined"
-          ? weather.main.temp < 8
+          ? weather.main.temp < 10
             ? "Snow"
             : weather.weather[0].main
           : "error"
