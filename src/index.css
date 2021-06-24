@@ -27,7 +27,7 @@ body {
   background-position: bottom;
   transition: 0.4 ease;
 }
-.Haze {
+.Haze .Mist {
   background-image: url("./assets/Haze.jpg");
   background-size: cover;
   background-position: bottom;
